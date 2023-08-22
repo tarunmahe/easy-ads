@@ -5,7 +5,7 @@ homepage: https://github.com/nooralibutt/easy-ads
 repository: https://github.com/nooralibutt/easy-ads
 
 environment:
-  sdk: '>=3.0.3 <4.0.0'
+  sdk: ">=3.0.3 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -14,8 +14,8 @@ dependencies:
   google_mobile_ads: ^3.0.0
   collection: ^1.17.1
   unity_ads_plugin: ^0.3.8
-  applovin_max: ^3.0.1
-  easy_audience_network: ^0.0.6
+  #applovin_max: ^3.0.1
+  #easy_audience_network: ^0.0.6
   logger: ^1.4.0
 
 dev_dependencies:
